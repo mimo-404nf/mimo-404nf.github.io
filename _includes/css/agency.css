@@ -121,7 +121,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl {
     padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
-    border-radius: 3px;
+    border-radius: 50%;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
@@ -268,7 +268,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
@@ -864,4 +864,36 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+
+
+/*# mimo updates */
+
+
+button.contact-buttons {
+    border : 0;
+    margin: 5px;
+    background-color: transparent;
+}
+
+button.contact-buttons a {
+    display: block;
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    font-size: 30px;
+    line-height: 55px;
+    outline: 0;
+    color: #fff;
+    background-color: #222;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
+button.contact-buttons a:hover,
+button.contact-buttons a:focus,
+button.contact-buttons a:active {
+    background-color: #{{ site.data.template.color.primary }};
 }
