@@ -1,15 +1,13 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Introduction to python programming
+subtitle: UPenn
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2022-12-02
+img: intropython.png
+thumbnail: intropython-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Learn the basics of programming and how to think computationally. I learned how to write programs that take inputs, process them, and produce outputs. I learned how to debug programs and how to solve programming problems. I learned how to express algorithms precisely using pseudo-code and control flow. I learned how to write Python programs that use variables, conditional statements, loops, functions, and lists.
 
 ---

@@ -1,15 +1,13 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Data Analysis using Python
+subtitle: UPenn
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2022-12-04
+img: dataanalysis.png
+thumbnail: dataanalysis-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Learn to analyze data using Python. I learned how to use Python libraries such as Pandas, Numpy, and Matplotlib to work with data. I learned how to clean data, perform exploratory data analysis, and create data visualizations. I learned how to use Python to answer questions about the data, and how to share the results of your analysis.
 
 ---

@@ -1,15 +1,14 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Google IT Support
+subtitle: Professional Certificate, Google
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2022-09-16
+img: itsupport.png
+thumbnail: itsupport-thumbnail.png
 alt: image-alt
-project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: I learned courses about IT Support, Software, and Network Security. I learned how to troubleshoot and solve problems. It was such an amazing experience. I learned a lot of new things and I am very happy to have taken this course.
 
 ---
