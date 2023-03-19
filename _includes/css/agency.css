@@ -59,10 +59,25 @@ h6 {
 
 .img-centered {
     margin: 0 auto;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 .bg-light-gray {
     background-color: #f7f7f7;
+}
+
+.bg-cv {
+    text-align: center;
+    color: #fff;
+    background-attachment: fixed;
+    background-image: url('{{ site.baseurl }}/img/cv-bg.png');
+    background-position: bottom;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: 1300px 600px;
+    -o-background-size: cover;
 }
 
 .bg-darkest-gray {
@@ -357,6 +372,7 @@ section h3.section-subheading {
 #certificates .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    background-color: transparent;
 }
 
 #certificates .portfolio-item .portfolio-link {
@@ -408,7 +424,7 @@ section h3.section-subheading {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
+    background-color: transparent;
 }
 
 #certificates .portfolio-item .portfolio-caption h4 {
