@@ -34,13 +34,15 @@ permalink: pretty
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url:
+    url: https://www.facebook.com/mohannad.alsabbagh
   - title: whatsapp
     url: http://wa.me/19086560111
   - title: github
     url: http://github.com/mimo-404nf/
   - title: envelope
     url: mailto:muhannadalsabagh91@hotmail.com
+  - title: linkedin
+    url: https://www.linkedin.com/in/muhannad-al-sabbagh-843b08198/
     
 # Postal address (add as many lines as necessary)
 address:
